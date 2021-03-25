@@ -1,0 +1,15 @@
+img{
+    display:block;
+    margin:auto;
+    width: 400px;
+    height: 250px;
+}
+body{
+    font-family: sans-serif;
+   background: linear-gradient(#68e7f0, #ffff);
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+}
